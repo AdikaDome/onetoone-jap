@@ -1,0 +1,11 @@
+D:\development\one2one\src\main\java\com\jpa\one2one\entity\AddressEntity.java
+D:\development\one2one\src\main\java\com\jpa\one2one\model\Address.java
+D:\development\one2one\src\main\java\com\jpa\one2one\One2oneApplication.java
+D:\development\one2one\src\main\java\com\jpa\one2one\model\PersonResponse.java
+D:\development\one2one\src\main\java\com\jpa\one2one\repository\AddressRepository.java
+D:\development\one2one\src\main\java\com\jpa\one2one\controller\PersonAddressController.java
+D:\development\one2one\src\main\java\com\jpa\one2one\repository\PersonRepository.java
+D:\development\one2one\src\main\java\com\jpa\one2one\entity\PersonEntity.java
+D:\development\one2one\src\main\java\com\jpa\one2one\model\Person.java
+D:\development\one2one\src\main\java\com\jpa\one2one\mapper\PersonMapper.java
+D:\development\one2one\src\main\java\com\jpa\one2one\service\PersonAddressService.java

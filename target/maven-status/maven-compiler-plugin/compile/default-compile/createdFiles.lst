@@ -1,0 +1,12 @@
+com\jpa\one2one\service\PersonAddressService.class
+com\jpa\one2one\mapper\PersonMapper.class
+com\jpa\one2one\entity\AddressEntity.class
+com\jpa\one2one\mapper\PersonMapperImpl.class
+com\jpa\one2one\One2oneApplication.class
+com\jpa\one2one\model\Person.class
+com\jpa\one2one\model\Address.class
+com\jpa\one2one\repository\AddressRepository.class
+com\jpa\one2one\repository\PersonRepository.class
+com\jpa\one2one\model\PersonResponse.class
+com\jpa\one2one\controller\PersonAddressController.class
+com\jpa\one2one\entity\PersonEntity.class
